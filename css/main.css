@@ -1,0 +1,16 @@
+body {
+  background: #222222;
+  color: #dddddd;
+  text-align: center;
+  font-family: sans-serif;
+}
+body .option {
+  font-size: 18px;
+  padding: 15px;
+  margin: 10px;
+  min-width: 80px;
+  background: #a7a7a7;
+  color: #000000;
+}
+
+/*# sourceMappingURL=main.css.map */
